@@ -203,3 +203,5 @@ smart_gaps on
 
 exec --no-startup-id compton -f
 exec --no-startup-id feh --bg-fill ~/Downloads/Ocean.jpg
+bindsym Mod1+period exec amixer set PCM -q 1+
+bindsym Mod1+comma exec amixer set PCM -q 1-
