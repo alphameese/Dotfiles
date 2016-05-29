@@ -1,0 +1,28 @@
+May 29 17:35 : errno: Failed to open /home/alphameese/.mpd/state: No such file or directory
+May 29 17:35 : errno: Failed to stat /home/alphameese/music: No such file or directory
+May 29 17:38 : client: [0] opened from [::1]:38508
+May 29 17:39 : update: added Greenday American Idiot][Mp3][320kbs][Hectorbusinspector]/Tracks/06) Green Day - St. Jimmy.mp3
+May 29 17:39 : update: added Greenday American Idiot][Mp3][320kbs][Hectorbusinspector]/Tracks/03) Green Day - Holiday.mp3
+May 29 17:39 : update: added Greenday American Idiot][Mp3][320kbs][Hectorbusinspector]/Tracks/13) Green Day - Whatsername.mp3
+May 29 17:39 : update: added Greenday American Idiot][Mp3][320kbs][Hectorbusinspector]/Tracks/11) Green Day - Wake Me Up When September Ends.mp3
+May 29 17:39 : update: added Greenday American Idiot][Mp3][320kbs][Hectorbusinspector]/Tracks/04) Green Day - Boulevard Of Broken Dreams.mp3
+May 29 17:39 : update: added Greenday American Idiot][Mp3][320kbs][Hectorbusinspector]/Tracks/12) Green Day - Homecoming.mp3
+May 29 17:39 : update: added Greenday American Idiot][Mp3][320kbs][Hectorbusinspector]/Tracks/10) Green Day - Letterbomb.mp3
+May 29 17:39 : update: added Greenday American Idiot][Mp3][320kbs][Hectorbusinspector]/Tracks/09) Green Day - Extraordinary Girl.mp3
+May 29 17:39 : update: added Greenday American Idiot][Mp3][320kbs][Hectorbusinspector]/Tracks/01) Green Day - American Idiot.mp3
+May 29 17:39 : update: added Greenday American Idiot][Mp3][320kbs][Hectorbusinspector]/Tracks/08) Green Day - She's A Rebel.mp3
+May 29 17:39 : update: added Greenday American Idiot][Mp3][320kbs][Hectorbusinspector]/Tracks/02) Green Day - Jesus Of Suburbia.mp3
+May 29 17:39 : update: added Greenday American Idiot][Mp3][320kbs][Hectorbusinspector]/Tracks/05) Green Day - Are We The Waiting.mp3
+May 29 17:39 : update: added Greenday American Idiot][Mp3][320kbs][Hectorbusinspector]/Tracks/07) Green Day - Give Me Novicane.mp3
+May 29 17:39 : player: played "Greenday American Idiot][Mp3][320kbs][Hectorbusinspector]/Tracks/03) Green Day - Holiday.mp3"
+May 29 17:42 : player: played "Greenday American Idiot][Mp3][320kbs][Hectorbusinspector]/Tracks/03) Green Day - Holiday.mp3"
+May 29 17:44 : client: [0] closed
+May 29 17:46 : player: played "Greenday American Idiot][Mp3][320kbs][Hectorbusinspector]/Tracks/03) Green Day - Holiday.mp3"
+May 29 17:50 : client: [0] opened from [::1]:57282
+May 29 17:54 : player: played "Greenday American Idiot][Mp3][320kbs][Hectorbusinspector]/Tracks/03) Green Day - Holiday.mp3"
+May 29 17:57 : player: played "Greenday American Idiot][Mp3][320kbs][Hectorbusinspector]/Tracks/01) Green Day - American Idiot.mp3"
+May 29 18:02 : player: played "Greenday American Idiot][Mp3][320kbs][Hectorbusinspector]/Tracks/02) Green Day - Jesus Of Suburbia.mp3"
+May 29 18:03 : client: [0] closed
+May 29 18:03 : client: [1] opened from [::1]:57284
+May 29 18:11 : client: [0] opened from [::1]:37036
+May 29 18:11 : client: [0] closed

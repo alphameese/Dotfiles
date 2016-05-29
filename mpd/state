@@ -1,0 +1,27 @@
+sw_volume: 68
+audio_device_state:1:AudioPCI
+state: stop
+current: 2
+random: 0
+repeat: 0
+single: 0
+consume: 0
+crossfade: 0
+mixrampdb: 0.000000
+mixrampdelay: -1.000000
+playlist_begin
+0:Greenday American Idiot][Mp3][320kbs][Hectorbusinspector]/Tracks/03) Green Day - Holiday.mp3
+1:Greenday American Idiot][Mp3][320kbs][Hectorbusinspector]/Tracks/01) Green Day - American Idiot.mp3
+2:Greenday American Idiot][Mp3][320kbs][Hectorbusinspector]/Tracks/02) Green Day - Jesus Of Suburbia.mp3
+3:Greenday American Idiot][Mp3][320kbs][Hectorbusinspector]/Tracks/03) Green Day - Holiday.mp3
+4:Greenday American Idiot][Mp3][320kbs][Hectorbusinspector]/Tracks/04) Green Day - Boulevard Of Broken Dreams.mp3
+5:Greenday American Idiot][Mp3][320kbs][Hectorbusinspector]/Tracks/05) Green Day - Are We The Waiting.mp3
+6:Greenday American Idiot][Mp3][320kbs][Hectorbusinspector]/Tracks/06) Green Day - St. Jimmy.mp3
+7:Greenday American Idiot][Mp3][320kbs][Hectorbusinspector]/Tracks/07) Green Day - Give Me Novicane.mp3
+8:Greenday American Idiot][Mp3][320kbs][Hectorbusinspector]/Tracks/08) Green Day - She's A Rebel.mp3
+9:Greenday American Idiot][Mp3][320kbs][Hectorbusinspector]/Tracks/09) Green Day - Extraordinary Girl.mp3
+10:Greenday American Idiot][Mp3][320kbs][Hectorbusinspector]/Tracks/10) Green Day - Letterbomb.mp3
+11:Greenday American Idiot][Mp3][320kbs][Hectorbusinspector]/Tracks/11) Green Day - Wake Me Up When September Ends.mp3
+12:Greenday American Idiot][Mp3][320kbs][Hectorbusinspector]/Tracks/12) Green Day - Homecoming.mp3
+13:Greenday American Idiot][Mp3][320kbs][Hectorbusinspector]/Tracks/13) Green Day - Whatsername.mp3
+playlist_end
