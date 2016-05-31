@@ -31,3 +31,9 @@ May 29 18:19 : client: [0] closed
 May 29 18:21 : client: [1] opened from [::1]:60288
 May 29 18:25 : player: played "Greenday American Idiot][Mp3][320kbs][Hectorbusinspector]/Tracks/03) Green Day - Holiday.mp3"
 May 29 18:28 : player: played "Greenday American Idiot][Mp3][320kbs][Hectorbusinspector]/Tracks/01) Green Day - American Idiot.mp3"
+May 29 18:36 : client: [1] closed
+May 29 18:36 : client: [2] opened from [::1]:60294
+May 31 08:00 : client: [0] opened from [::1]:37830
+May 31 08:00 : player: played "Greenday American Idiot][Mp3][320kbs][Hectorbusinspector]/Tracks/02) Green Day - Jesus Of Suburbia.mp3"
+May 31 08:02 : client: [0] closed
+May 31 08:03 : player: played "Greenday American Idiot][Mp3][320kbs][Hectorbusinspector]/Tracks/06) Green Day - St. Jimmy.mp3"
